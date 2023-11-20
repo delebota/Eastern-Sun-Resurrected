@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/gem/starters_pack/misc_starters_pack_ALB.texture"
+        "path": "data/hd/items/misc/gem/diamond/misc_diamond_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/starters_pack/misc_starters_pack_NRM.texture"
+        "path": "data/hd/items/misc/gem/diamond/misc_diamond_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/starters_pack/misc_starters_pack_ORM.texture"
+        "path": "data/hd/items/misc/gem/diamond/misc_diamond_ORM.texture"
       }
     ],
     "physics": [],

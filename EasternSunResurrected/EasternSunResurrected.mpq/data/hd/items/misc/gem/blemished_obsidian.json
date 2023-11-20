@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/gem/blemished_obsidian/misc_blemished_obsidian_ALB.texture"
+        "path": "data/hd/items/misc/gem/blemished_amethyst/misc_blemished_amethyst_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/blemished_obsidian/misc_blemished_obsidian_NRM.texture"
+        "path": "data/hd/items/misc/gem/blemished_amethyst/misc_blemished_amethyst_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/blemished_obsidian/misc_blemished_obsidian_ORM.texture"
+        "path": "data/hd/items/misc/gem/blemished_amethyst/misc_blemished_amethyst_ORM.texture"
       }
     ],
     "physics": [],

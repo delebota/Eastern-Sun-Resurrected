@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/gem/perfect_obsidian/misc_perfect_obsidian_ALB.texture"
+        "path": "data/hd/items/misc/gem/perfect_amethyst/misc_perfect_amethyst_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/perfect_obsidian/misc_perfect_obsidian_NRM.texture"
+        "path": "data/hd/items/misc/gem/perfect_amethyst/misc_perfect_amethyst_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/perfect_obsidian/misc_perfect_obsidian_ORM.texture"
+        "path": "data/hd/items/misc/gem/perfect_amethyst/misc_perfect_amethyst_ORM.texture"
       }
     ],
     "physics": [],

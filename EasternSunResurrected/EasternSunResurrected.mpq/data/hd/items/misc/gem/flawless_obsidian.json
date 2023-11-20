@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/gem/flawless_obsidian/misc_flawless_obsidian_ALB.texture"
+        "path": "data/hd/items/misc/gem/flawless_amethyst/misc_flawless_amethyst_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/flawless_obsidian/misc_flawless_obsidian_NRM.texture"
+        "path": "data/hd/items/misc/gem/flawless_amethyst/misc_flawless_amethyst_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/flawless_obsidian/misc_flawless_obsidian_ORM.texture"
+        "path": "data/hd/items/misc/gem/flawless_amethyst/misc_flawless_amethyst_ORM.texture"
       }
     ],
     "physics": [],

@@ -3,7 +3,7 @@
     "particles": [],
     "models": [
       {
-        "path": "data/hd/items/misc/gem/chipped_amethyst/chipped_amethyst.model"
+        "path": "data/hd/items/misc/gem/perfect_skull/perfect_skull.model"
       }
     ],
     "skeletons": [
@@ -14,13 +14,13 @@
     "animations": [],
     "textures": [
       {
-        "path": "data/hd/items/misc/gem/chipped_amethyst/misc_chipped_amethyst_ALB.texture"
+        "path": "data/hd/items/misc/gem/perfect_skull/misc_perfect_skull_ALB.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/chipped_amethyst/misc_chipped_amethyst_NRM.texture"
+        "path": "data/hd/items/misc/gem/perfect_skull/misc_perfect_skull_NRM.texture"
       },
       {
-        "path": "data/hd/items/misc/gem/chipped_amethyst/misc_chipped_amethyst_ORM.texture"
+        "path": "data/hd/items/misc/gem/perfect_skull/misc_perfect_skull_ORM.texture"
       }
     ],
     "physics": [],
@@ -34,12 +34,12 @@
     "other": []
   },
   "type": "UnitDefinition",
-  "name": "chipped_obsidian",
+  "name": "perfect_skull_6pack",
   "entities": [
     {
       "type": "Entity",
       "name": "entity_root",
-      "id": 82511480,
+      "id": 2112995199,
       "components": [
         {
           "type": "UnitRootComponent",
@@ -61,18 +61,39 @@
           "type": "SkeletonDefinitionComponent",
           "name": "component_skeleton",
           "filename": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
+        },
+        {
+          "type": "TransformDefinitionComponent",
+          "name": "entity_root_TransformDefinition",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0.95105654,
+            "z": 0,
+            "w": -0.309017
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "inheritOnlyPosition": false
         }
       ]
     },
     {
       "type": "Entity",
       "name": "entity_model",
-      "id": 1868792483,
+      "id": 2028677742,
       "components": [
         {
           "type": "ModelDefinitionComponent",
-          "name": "component_model_chipped_amethyst",
-          "filename": "data/hd/items/misc/gem/chipped_amethyst/chipped_amethyst.model",
+          "name": "component_model_perfect_skull",
+          "filename": "data/hd/items/misc/gem/perfect_skull/perfect_skull.model",
           "visibleLayers": 1,
           "lightMask": 19,
           "shadowMask": 3,
