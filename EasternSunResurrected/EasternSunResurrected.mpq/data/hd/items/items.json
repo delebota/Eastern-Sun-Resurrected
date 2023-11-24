@@ -9,10 +9,10 @@
   { "btx": { "asset": "axe/battle_axe" } },
   { "gax": { "asset": "axe/great_axe" } },
   { "gix": { "asset": "axe/giant_axe" } },
-  { "wnd": { "asset": "wand/wand" } },
-  { "ywn": { "asset": "wand/yew_wand" } },
-  { "bwn": { "asset": "wand/bone_wand" } },
-  { "gwn": { "asset": "wand/grim_wand" } },
+  { "wnd": { "asset": "gem/placeholder_1_3" } },
+  { "ywn": { "asset": "gem/placeholder_1_3" } },
+  { "bwn": { "asset": "gem/placeholder_1_3" } },
+  { "gwn": { "asset": "gem/placeholder_1_3" } },
   { "clb": { "asset": "club/club" } },
   { "scp": { "asset": "scepter/scepter" } },
   { "gsc": { "asset": "scepter/grand_scepter" } },
@@ -682,5 +682,7 @@
   { "6gr": { "asset": "gem/perfect_ruby_6pack" } },
   { "6gw": { "asset": "gem/perfect_diamond_6pack" } },
   { "6sk": { "asset": "gem/perfect_skull_6pack" } },
-  { "6gk": { "asset": "gem/perfect_obsidian_6pack" } }
+  { "6gk": { "asset": "gem/perfect_obsidian_6pack" } },
+  { "cix": { "asset": "gem/placeholder_2_2" } },
+  { "clk": { "asset": "gem/placeholder_2_3" } }
 ]
