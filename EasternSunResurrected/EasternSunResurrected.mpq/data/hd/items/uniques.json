@@ -1,0 +1,7289 @@
+[
+  {
+    "the_gnasher": {
+      "normal": "axe/the_gnasher",
+      "uber": "axe/the_gnasher",
+      "ultra": "axe/the_gnasher"
+    }
+  },
+  {
+    "deathspade": {
+      "normal": "axe/deathspade",
+      "uber": "axe/deathspade",
+      "ultra": "axe/deathspade"
+    }
+  },
+  {
+    "bladebone": {
+      "normal": "axe/double_axe",
+      "uber": "axe/double_axe",
+      "ultra": "axe/double_axe"
+    }
+  },
+  {
+    "mindrend": {
+      "normal": "axe/mindrend",
+      "uber": "axe/mindrend",
+      "ultra": "axe/mindrend"
+    }
+  },
+  {
+    "rakescar": {
+      "normal": "axe/war_axe",
+      "uber": "axe/war_axe",
+      "ultra": "axe/war_axe"
+    }
+  },
+  {
+    "fechmars_axe": {
+      "normal": "axe/large_axe",
+      "uber": "axe/large_axe",
+      "ultra": "axe/large_axe"
+    }
+  },
+  {
+    "goreshovel": {
+      "normal": "axe/broad_axe",
+      "uber": "axe/broad_axe",
+      "ultra": "axe/broad_axe"
+    }
+  },
+  {
+    "the_chieftan": {
+      "normal": "axe/the_chieftan",
+      "uber": "axe/the_chieftan",
+      "ultra": "axe/the_chieftan"
+    }
+  },
+  {
+    "brainhew": {
+      "normal": "axe/brainhew",
+      "uber": "axe/brainhew",
+      "ultra": "axe/brainhew"
+    }
+  },
+  {
+    "the_humongous": {
+      "normal": "axe/giant_axe",
+      "uber": "axe/the_minataur",
+      "ultra": "axe/giant_axe"
+    }
+  },
+  {
+    "iros_torch": {
+      "normal": "wand/iros_torch",
+      "uber": "wand/iros_torch",
+      "ultra": "wand/iros_torch"
+    }
+  },
+  {
+    "maelstromwrath": {
+      "normal": "wand/yew_wand",
+      "uber": "wand/yew_wand",
+      "ultra": "wand/yew_wand"
+    }
+  },
+  {
+    "gravenspine": {
+      "normal": "wand/gravenspine",
+      "uber": "wand/gravenspine",
+      "ultra": "wand/gravenspine"
+    }
+  },
+  {
+    "umes_lament": {
+      "normal": "wand/grim_wand",
+      "uber": "wand/blackhand_key",
+      "ultra": "wand/grim_wand"
+    }
+  },
+  {
+    "felloak": {
+      "normal": "club/felloak",
+      "uber": "club/felloak",
+      "ultra": "club/felloak"
+    }
+  },
+  {
+    "knell_striker": {
+      "normal": "scepter/scepter",
+      "uber": "scepter/scepter",
+      "ultra": "scepter/scepter"
+    }
+  },
+  {
+    "rusthandle": {
+      "normal": "scepter/grand_scepter",
+      "uber": "scepter/grand_scepter",
+      "ultra": "scepter/grand_scepter"
+    }
+  },
+  {
+    "stormeye": {
+      "normal": "scepter/war_scepter",
+      "uber": "scepter/war_scepter",
+      "ultra": "scepter/war_scepter"
+    }
+  },
+  {
+    "stoutnail": {
+      "normal": "club/stoutnail",
+      "uber": "club/stoutnail",
+      "ultra": "club/stoutnail"
+    }
+  },
+  {
+    "crushflange": {
+      "normal": "mace/mace",
+      "uber": "mace/mace",
+      "ultra": "mace/mace"
+    }
+  },
+  {
+    "bloodrise": {
+      "normal": "mace/bloodrise",
+      "uber": "mace/bloodrise",
+      "ultra": "mace/bloodrise"
+    }
+  },
+  {
+    "the_generals_tan_do_li_ga": {
+      "normal": "mace/flail",
+      "uber": "mace/flail",
+      "ultra": "mace/flail"
+    }
+  },
+  {
+    "ironstone": {
+      "normal": "hammer/war_hammer",
+      "uber": "hammer/war_hammer",
+      "ultra": "hammer/war_hammer"
+    }
+  },
+  {
+    "bonesob": {
+      "normal": "hammer/bonesob",
+      "uber": "hammer/bonesob",
+      "ultra": "hammer/bonesob"
+    }
+  },
+  {
+    "steeldriver": {
+      "normal": "hammer/great_maul",
+      "uber": "hammer/great_maul",
+      "ultra": "hammer/great_maul"
+    }
+  },
+  {
+    "rixots_keen": {
+      "normal": "sword/short_sword",
+      "uber": "sword/short_sword",
+      "ultra": "sword/short_sword"
+    }
+  },
+  {
+    "blood_crescent": {
+      "normal": "sword/blood_crescent",
+      "uber": "sword/blood_crescent",
+      "ultra": "sword/blood_crescent"
+    }
+  },
+  {
+    "krintizs_skewer": {
+      "normal": "sword/krintizs_skewer",
+      "uber": "sword/krintizs_skewer",
+      "ultra": "sword/krintizs_skewer"
+    }
+  },
+  {
+    "gleamscythe": {
+      "normal": "sword/gleamscythe",
+      "uber": "sword/gleamscythe",
+      "ultra": "sword/gleamscythe"
+    }
+  },
+  {
+    "griswolds_edge": {
+      "normal": "sword/griswolds_edge",
+      "uber": "sword/griswolds_edge",
+      "ultra": "sword/griswolds_edge"
+    }
+  },
+  {
+    "hellplague": {
+      "normal": "sword/hellplague",
+      "uber": "sword/hellplague",
+      "ultra": "sword/hellplague"
+    }
+  },
+  {
+    "culwens_point": {
+      "normal": "sword/war_sword",
+      "uber": "sword/war_sword",
+      "ultra": "sword/war_sword"
+    }
+  },
+  {
+    "shadowfang": {
+      "normal": "sword/shadowfang",
+      "uber": "sword/shadowfang",
+      "ultra": "sword/shadowfang"
+    }
+  },
+  {
+    "soulflay": {
+      "normal": "sword/claymore",
+      "uber": "sword/claymore",
+      "ultra": "sword/claymore"
+    }
+  },
+  {
+    "kinemils_awl": {
+      "normal": "sword/kinemils_awl",
+      "uber": "sword/kinemils_awl",
+      "ultra": "sword/kinemils_awl"
+    }
+  },
+  {
+    "blacktongue": {
+      "normal": "sword/blacktongue",
+      "uber": "sword/blacktongue",
+      "ultra": "sword/blacktongue"
+    }
+  },
+  {
+    "ripsaw": {
+      "normal": "sword/flamberge",
+      "uber": "sword/todesfaelle_flamme",
+      "ultra": "sword/flamberge"
+    }
+  },
+  {
+    "the_patriarch": {
+      "normal": "sword/the_patriarch",
+      "uber": "sword/the_patriarch",
+      "ultra": "sword/the_patriarch"
+    }
+  },
+  {
+    "gull": {
+      "normal": "knife/dagger",
+      "uber": "knife/dagger",
+      "ultra": "knife/dagger"
+    }
+  },
+  {
+    "the_diggler": {
+      "normal": "knife/dirk",
+      "uber": "knife/dirk",
+      "ultra": "knife/dirk"
+    }
+  },
+  {
+    "the_jade_tan_do": {
+      "normal": "knife/the_jade_tan_do",
+      "uber": "knife/the_jade_tan_do",
+      "ultra": "knife/the_jade_tan_do"
+    }
+  },
+  {
+    "irices_shard": {
+      "normal": "knife/blade",
+      "uber": "knife/stormspike",
+      "ultra": "knife/blade"
+    }
+  },
+  {
+    "the_dragon_chang": {
+      "normal": "spear/spear",
+      "uber": "spear/spear",
+      "ultra": "spear/spear"
+    }
+  },
+  {
+    "razortine": {
+      "normal": "spear/razortine",
+      "uber": "spear/razortine",
+      "ultra": "spear/razortine"
+    }
+  },
+  {
+    "bloodthief": {
+      "normal": "spear/brandistock",
+      "uber": "spear/soulfeast_tine",
+      "ultra": "spear/brandistock"
+    }
+  },
+  {
+    "lance_of_yaggai": {
+      "normal": "spear/spetum",
+      "uber": "spear/spetum",
+      "ultra": "spear/spetum"
+    }
+  },
+  {
+    "the_tannr_gorerod": {
+      "normal": "spear/pike",
+      "uber": "spear/pike",
+      "ultra": "spear/pike"
+    }
+  },
+  {
+    "dimoaks_hew": {
+      "normal": "polearm/bardiche",
+      "uber": "polearm/bardiche",
+      "ultra": "polearm/bardiche"
+    }
+  },
+  {
+    "steelgoad": {
+      "normal": "polearm/voulge",
+      "uber": "polearm/voulge",
+      "ultra": "polearm/voulge"
+    }
+  },
+  {
+    "soul_harvest": {
+      "normal": "polearm/soul_harvest",
+      "uber": "polearm/soul_harvest",
+      "ultra": "polearm/soul_harvest"
+    }
+  },
+  {
+    "the_battlebranch": {
+      "normal": "polearm/poleaxe",
+      "uber": "polearm/poleaxe",
+      "ultra": "polearm/poleaxe"
+    }
+  },
+  {
+    "woestave": {
+      "normal": "polearm/halberd",
+      "uber": "polearm/halberd",
+      "ultra": "polearm/halberd"
+    }
+  },
+  {
+    "the_grim_reaper": {
+      "normal": "polearm/war_scythe",
+      "uber": "polearm/war_scythe",
+      "ultra": "polearm/war_scythe"
+    }
+  },
+  {
+    "bane_ash": {
+      "normal": "staff/short_staff",
+      "uber": "staff/short_staff",
+      "ultra": "staff/short_staff"
+    }
+  },
+  {
+    "serpent_lord": {
+      "normal": "staff/long_staff",
+      "uber": "staff/long_staff",
+      "ultra": "staff/long_staff"
+    }
+  },
+  {
+    "lazarus_spire": {
+      "normal": "staff/lazarus_spire",
+      "uber": "staff/lazarus_spire",
+      "ultra": "staff/lazarus_spire"
+    }
+  },
+  {
+    "the_salamander": {
+      "normal": "staff/battle_staff",
+      "uber": "staff/battle_staff",
+      "ultra": "staff/battle_staff"
+    }
+  },
+  {
+    "the_iron_jang_bong": {
+      "normal": "staff/war_staff",
+      "uber": "staff/skullcollector",
+      "ultra": "staff/war_staff"
+    }
+  },
+  {
+    "pluckeye": {
+      "normal": "bow/short_bow",
+      "uber": "bow/short_bow",
+      "ultra": "bow/short_bow"
+    }
+  },
+  {
+    "witherstring": {
+      "normal": "bow/hunters_bow",
+      "uber": "bow/hunters_bow",
+      "ultra": "bow/hunters_bow"
+    }
+  },
+  {
+    "rimeraven": {
+      "normal": "bow/long_bow",
+      "uber": "bow/kuko_shakaku",
+      "ultra": "bow/long_bow"
+    }
+  },
+  {
+    "piercerib": {
+      "normal": "bow/piercerib",
+      "uber": "bow/piercerib",
+      "ultra": "bow/piercerib"
+    }
+  },
+  {
+    "pullspite": {
+      "normal": "bow/pullspite",
+      "uber": "bow/pullspite",
+      "ultra": "bow/pullspite"
+    }
+  },
+  {
+    "wizendraw": {
+      "normal": "bow/long_battle_bow",
+      "uber": "bow/long_battle_bow",
+      "ultra": "bow/long_battle_bow"
+    }
+  },
+  {
+    "hellclap": {
+      "normal": "bow/hellclap",
+      "uber": "bow/hellclap",
+      "ultra": "bow/hellclap"
+    }
+  },
+  {
+    "blastbark": {
+      "normal": "bow/long_war_bow",
+      "uber": "bow/long_war_bow",
+      "ultra": "bow/long_war_bow"
+    }
+  },
+  {
+    "leadcrow": {
+      "normal": "bow/leadcrow",
+      "uber": "bow/leadcrow",
+      "ultra": "bow/leadcrow"
+    }
+  },
+  {
+    "ichorsting": {
+      "normal": "bow/ichorsting",
+      "uber": "bow/ichorsting",
+      "ultra": "bow/ichorsting"
+    }
+  },
+  {
+    "hellcast": {
+      "normal": "bow/hellcast",
+      "uber": "bow/hellcast",
+      "ultra": "bow/hellcast"
+    }
+  },
+  {
+    "doomspittle": {
+      "normal": "bow/doomspittle",
+      "uber": "bow/doomspittle",
+      "ultra": "bow/doomspittle"
+    }
+  },
+  {
+    "war_bonnet": {
+      "normal": "helmet/war_bonnet",
+      "uber": "helmet/war_bonnet",
+      "ultra": "helmet/war_bonnet"
+    }
+  },
+  {
+    "tarnhelm": {
+      "normal": "helmet/skull_cap",
+      "uber": "helmet/rockstopper",
+      "ultra": "helmet/skull_cap"
+    }
+  },
+  {
+    "coif_of_glory": {
+      "normal": "helmet/coif_of_glory",
+      "uber": "helmet/coif_of_glory",
+      "ultra": "helmet/coif_of_glory"
+    }
+  },
+  {
+    "duskdeep": {
+      "normal": "helmet/duskdeep",
+      "uber": "helmet/duskdeep",
+      "ultra": "helmet/duskdeep"
+    }
+  },
+  {
+    "wormskull": {
+      "normal": "helmet/wormskull",
+      "uber": "helmet/wormskull",
+      "ultra": "helmet/wormskull"
+    }
+  },
+  {
+    "howltusk": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "undead_crown": {
+      "normal": "helmet/crown",
+      "uber": "helmet/crown_of_thieves",
+      "ultra": "helmet/crown"
+    }
+  },
+  {
+    "the_face_of_horror": {
+      "normal": "helmet/mask",
+      "uber": "helmet/mask",
+      "ultra": "helmet/mask"
+    }
+  },
+  {
+    "greyform": {
+      "normal": "armor/quilted_armor",
+      "uber": "armor/quilted_armor",
+      "ultra": "armor/quilted_armor"
+    }
+  },
+  {
+    "blinkbats_form": {
+      "normal": "armor/leather_armor",
+      "uber": "armor/leather_armor",
+      "ultra": "armor/leather_armor"
+    }
+  },
+  {
+    "the_centurion": {
+      "normal": "armor/hard_leather_armor",
+      "uber": "armor/hard_leather_armor",
+      "ultra": "armor/hard_leather_armor"
+    }
+  },
+  {
+    "twitchthroe": {
+      "normal": "armor/studded_leather",
+      "uber": "armor/ironpelt",
+      "ultra": "armor/studded_leather"
+    }
+  },
+  {
+    "darkglow": {
+      "normal": "armor/ring_mail",
+      "uber": "armor/ring_mail",
+      "ultra": "armor/ring_mail"
+    }
+  },
+  {
+    "hawkmail": {
+      "normal": "armor/scale_mail",
+      "uber": "armor/scale_mail",
+      "ultra": "armor/scale_mail"
+    }
+  },
+  {
+    "sparking_mail": {
+      "normal": "armor/chain_mail",
+      "uber": "armor/chain_mail",
+      "ultra": "armor/chain_mail"
+    }
+  },
+  {
+    "venomsward": {
+      "normal": "armor/breast_plate",
+      "uber": "armor/breast_plate",
+      "ultra": "armor/breast_plate"
+    }
+  },
+  {
+    "iceblink": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "boneflesh": {
+      "normal": "armor/plate_mail",
+      "uber": "armor/plate_mail",
+      "ultra": "armor/plate_mail"
+    }
+  },
+  {
+    "rockfleece": {
+      "normal": "armor/field_plate",
+      "uber": "armor/field_plate",
+      "ultra": "armor/field_plate"
+    }
+  },
+  {
+    "rattlecage": {
+      "normal": "armor/gothic_plate",
+      "uber": "armor/gothic_plate",
+      "ultra": "armor/gothic_plate"
+    }
+  },
+  {
+    "goldskin": {
+      "normal": "armor/goldskin",
+      "uber": "armor/goldskin",
+      "ultra": "armor/goldskin"
+    }
+  },
+  {
+    "victors_silk": {
+      "normal": "armor/victors_silk",
+      "uber": "armor/victors_silk",
+      "ultra": "armor/victors_silk"
+    }
+  },
+  {
+    "heavenly_garb": {
+      "normal": "armor/light_plate",
+      "uber": "armor/light_plate",
+      "ultra": "armor/light_plate"
+    }
+  },
+  {
+    "pelta_lunata": {
+      "normal": "shield/pelta_lunata",
+      "uber": "shield/pelta_lunata",
+      "ultra": "shield/pelta_lunata"
+    }
+  },
+  {
+    "umbral_disk": {
+      "normal": "shield/umbral_disk",
+      "uber": "shield/umbral_disk",
+      "ultra": "shield/umbral_disk"
+    }
+  },
+  {
+    "stormguild": {
+      "normal": "shield/stormguild",
+      "uber": "shield/stormguild",
+      "ultra": "shield/stormguild"
+    }
+  },
+  {
+    "wall_of_the_eyeless": {
+      "normal": "shield/wall_of_the_eyeless",
+      "uber": "shield/wall_of_the_eyeless",
+      "ultra": "shield/wall_of_the_eyeless"
+    }
+  },
+  {
+    "swordback_hold": {
+      "normal": "shield/swordback_hold",
+      "uber": "shield/swordback_hold",
+      "ultra": "shield/swordback_hold"
+    }
+  },
+  {
+    "steelclash": {
+      "normal": "shield/steelclash",
+      "uber": "shield/steelclash",
+      "ultra": "shield/steelclash"
+    }
+  },
+  {
+    "bverrit_keep": {
+      "normal": "shield/bverrit_keep",
+      "uber": "shield/bverrit_keep",
+      "ultra": "shield/bverrit_keep"
+    }
+  },
+  {
+    "the_ward": {
+      "normal": "shield/the_ward",
+      "uber": "shield/the_ward",
+      "ultra": "shield/the_ward"
+    }
+  },
+  {
+    "the_hand_of_broc": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "bloodfist": {
+      "normal": "glove/heavy_gloves",
+      "uber": "glove/heavy_gloves",
+      "ultra": "glove/heavy_gloves"
+    }
+  },
+  {
+    "chance_guards": {
+      "normal": "glove/bracers_m",
+      "uber": "glove/bracers_m",
+      "ultra": "glove/bracers_m"
+    }
+  },
+  {
+    "magefist": {
+      "normal": "glove/light_gauntlets",
+      "uber": "glove/light_gauntlets",
+      "ultra": "glove/light_gauntlets"
+    }
+  },
+  {
+    "frostburn": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "hotspur": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
+  },
+  {
+    "gorefoot": {
+      "normal": "boot/heavy_boots",
+      "uber": "boot/heavy_boots",
+      "ultra": "boot/heavy_boots"
+    }
+  },
+  {
+    "treads_of_cthon": {
+      "normal": "boot/chain_boots",
+      "uber": "boot/chain_boots",
+      "ultra": "boot/chain_boots"
+    }
+  },
+  {
+    "goblin_toe": {
+      "normal": "boot/light_plate_boots",
+      "uber": "boot/light_plate_boots",
+      "ultra": "boot/light_plate_boots"
+    }
+  },
+  {
+    "tearhaunch": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "lenyms_cord": {
+      "normal": "belt/sash_l",
+      "uber": "belt/sash_l",
+      "ultra": "belt/sash_l"
+    }
+  },
+  {
+    "snakecord": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "nightsmoke": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "goldwrap": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "bladebuckle": {
+      "normal": "belt/girdle_h",
+      "uber": "belt/girdle_h",
+      "ultra": "belt/girdle_h"
+    }
+  },
+  {
+    "nokozan_relic": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "the_eye_of_etlich": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "the_mahim_oak_curio": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "nagelring": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "manald_heal": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "the_stone_of_jordan": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "amulet_of_the_viper": {
+      "normal": "amulet/viper_amulet",
+      "uber": "amulet/viper_amulet",
+      "ultra": "amulet/viper_amulet"
+    }
+  },
+  {
+    "staff_of_kings": {
+      "normal": "staff/staff_of_the_kings",
+      "uber": "staff/staff_of_the_kings",
+      "ultra": "staff/staff_of_the_kings"
+    }
+  },
+  {
+    "horadric_staff": {
+      "normal": "staff/horadric_staff",
+      "uber": "staff/horadric_staff",
+      "ultra": "staff/horadric_staff"
+    }
+  },
+  {
+    "hell_forge_hammer": {
+      "normal": "hammer/hellforge_hammer",
+      "uber": "hammer/hellforge_hammer",
+      "ultra": "hammer/hellforge_hammer"
+    }
+  },
+  {
+    "khalim_flail": {
+      "normal": "mace/khalim_flail",
+      "uber": "mace/khalim_flail",
+      "ultra": "mace/khalim_flail"
+    }
+  },
+  {
+    "super_khalim_flail": {
+      "normal": "mace/super_khalim_flail",
+      "uber": "mace/super_khalim_flail",
+      "ultra": "mace/super_khalim_flail"
+    }
+  },
+  {
+    "coldkill": {
+      "normal": "axe/the_gnasher",
+      "uber": "axe/the_gnasher",
+      "ultra": "axe/the_gnasher"
+    }
+  },
+  {
+    "butchers_pupil": {
+      "normal": "axe/deathspade",
+      "uber": "axe/deathspade",
+      "ultra": "axe/deathspade"
+    }
+  },
+  {
+    "islestrike": {
+      "normal": "axe/double_axe",
+      "uber": "axe/double_axe",
+      "ultra": "axe/double_axe"
+    }
+  },
+  {
+    "pompes_wrath": {
+      "normal": "axe/mindrend",
+      "uber": "axe/mindrend",
+      "ultra": "axe/mindrend"
+    }
+  },
+  {
+    "guardian_naga": {
+      "normal": "axe/war_axe",
+      "uber": "axe/war_axe",
+      "ultra": "axe/war_axe"
+    }
+  },
+  {
+    "warlords_trust": {
+      "normal": "axe/large_axe",
+      "uber": "axe/large_axe",
+      "ultra": "axe/large_axe"
+    }
+  },
+  {
+    "spellsteel": {
+      "normal": "axe/broad_axe",
+      "uber": "axe/broad_axe",
+      "ultra": "axe/broad_axe"
+    }
+  },
+  {
+    "stormrider": {
+      "normal": "axe/stormrider",
+      "uber": "axe/stormrider",
+      "ultra": "axe/stormrider"
+    }
+  },
+  {
+    "boneslayer_blade": {
+      "normal": "axe/brainhew",
+      "uber": "axe/brainhew",
+      "ultra": "axe/brainhew"
+    }
+  },
+  {
+    "the_minataur": {
+      "normal": "axe/the_minataur",
+      "uber": "axe/the_minataur",
+      "ultra": "axe/the_minataur"
+    }
+  },
+  {
+    "suicide_branch": {
+      "normal": "wand/wand",
+      "uber": "wand/wand",
+      "ultra": "wand/wand"
+    }
+  },
+  {
+    "carin_shard": {
+      "normal": "wand/yew_wand",
+      "uber": "wand/yew_wand",
+      "ultra": "wand/yew_wand"
+    }
+  },
+  {
+    "arm_of_king_leoric": {
+      "normal": "wand/gravenspine",
+      "uber": "wand/gravenspine",
+      "ultra": "wand/gravenspine"
+    }
+  },
+  {
+    "blackhand_key": {
+      "normal": "wand/blackhand_key",
+      "uber": "wand/blackhand_key",
+      "ultra": "wand/blackhand_key"
+    }
+  },
+  {
+    "dark_clan_crusher": {
+      "normal": "club/felloak",
+      "uber": "club/felloak",
+      "ultra": "club/felloak"
+    }
+  },
+  {
+    "zakarums_hand": {
+      "normal": "scepter/scepter",
+      "uber": "scepter/scepter",
+      "ultra": "scepter/scepter"
+    }
+  },
+  {
+    "the_fetid_sprinkler": {
+      "normal": "scepter/grand_scepter",
+      "uber": "scepter/grand_scepter",
+      "ultra": "scepter/grand_scepter"
+    }
+  },
+  {
+    "hand_of_blessed_light": {
+      "normal": "scepter/war_scepter",
+      "uber": "scepter/war_scepter",
+      "ultra": "scepter/war_scepter"
+    }
+  },
+  {
+    "fleshrender": {
+      "normal": "club/stoutnail",
+      "uber": "club/stoutnail",
+      "ultra": "club/stoutnail"
+    }
+  },
+  {
+    "sureshrill_frost": {
+      "normal": "mace/mace",
+      "uber": "mace/mace",
+      "ultra": "mace/mace"
+    }
+  },
+  {
+    "moonfall": {
+      "normal": "mace/bloodrise",
+      "uber": "mace/bloodrise",
+      "ultra": "mace/bloodrise"
+    }
+  },
+  {
+    "baezils_vortex": {
+      "normal": "mace/flail",
+      "uber": "mace/flail",
+      "ultra": "mace/flail"
+    }
+  },
+  {
+    "earthshaker": {
+      "normal": "hammer/war_hammer",
+      "uber": "hammer/war_hammer",
+      "ultra": "hammer/war_hammer"
+    }
+  },
+  {
+    "bloodtree_stump": {
+      "normal": "hammer/maul",
+      "uber": "hammer/maul",
+      "ultra": "hammer/maul"
+    }
+  },
+  {
+    "the_gavel_of_pain": {
+      "normal": "hammer/the_gavel_of_pain",
+      "uber": "hammer/the_gavel_of_pain",
+      "ultra": "hammer/the_gavel_of_pain"
+    }
+  },
+  {
+    "bloodletter": {
+      "normal": "sword/short_sword",
+      "uber": "sword/short_sword",
+      "ultra": "sword/short_sword"
+    }
+  },
+  {
+    "coldsteel_eye": {
+      "normal": "sword/blood_crescent",
+      "uber": "sword/blood_crescent",
+      "ultra": "sword/blood_crescent"
+    }
+  },
+  {
+    "hexfire": {
+      "normal": "sword/hexfire",
+      "uber": "sword/hexfire",
+      "ultra": "sword/hexfire"
+    }
+  },
+  {
+    "blade_of_ali_baba": {
+      "normal": "sword/falchion",
+      "uber": "sword/falchion",
+      "ultra": "sword/falchion"
+    }
+  },
+  {
+    "ginthers_rift": {
+      "normal": "sword/ginthers_rift",
+      "uber": "sword/ginthers_rift",
+      "ultra": "sword/ginthers_rift"
+    }
+  },
+  {
+    "headstriker": {
+      "normal": "sword/broad_sword",
+      "uber": "sword/broad_sword",
+      "ultra": "sword/broad_sword"
+    }
+  },
+  {
+    "plague_bearer": {
+      "normal": "sword/plague_bearer",
+      "uber": "sword/plague_bearer",
+      "ultra": "sword/plague_bearer"
+    }
+  },
+  {
+    "the_atlantian": {
+      "normal": "sword/war_sword",
+      "uber": "sword/war_sword",
+      "ultra": "sword/war_sword"
+    }
+  },
+  {
+    "crainte_vomir": {
+      "normal": "sword/shadowfang",
+      "uber": "sword/shadowfang",
+      "ultra": "sword/shadowfang"
+    }
+  },
+  {
+    "bing_sz_wang": {
+      "normal": "sword/claymore",
+      "uber": "sword/claymore",
+      "ultra": "sword/claymore"
+    }
+  },
+  {
+    "the_vile_husk": {
+      "normal": "sword/kinemils_awl",
+      "uber": "sword/kinemils_awl",
+      "ultra": "sword/kinemils_awl"
+    }
+  },
+  {
+    "cloudcrack": {
+      "normal": "sword/blacktongue",
+      "uber": "sword/blacktongue",
+      "ultra": "sword/blacktongue"
+    }
+  },
+  {
+    "todesfaelle_flamme": {
+      "normal": "sword/todesfaelle_flamme",
+      "uber": "sword/todesfaelle_flamme",
+      "ultra": "sword/todesfaelle_flamme"
+    }
+  },
+  {
+    "swordguard": {
+      "normal": "sword/the_patriarch",
+      "uber": "sword/the_patriarch",
+      "ultra": "sword/the_patriarch"
+    }
+  },
+  {
+    "spineripper": {
+      "normal": "knife/dagger",
+      "uber": "knife/dagger",
+      "ultra": "knife/dagger"
+    }
+  },
+  {
+    "heart_carver": {
+      "normal": "knife/dirk",
+      "uber": "knife/dirk",
+      "ultra": "knife/dirk"
+    }
+  },
+  {
+    "blackbogs_sharp": {
+      "normal": "knife/the_jade_tan_do",
+      "uber": "knife/the_jade_tan_do",
+      "ultra": "knife/the_jade_tan_do"
+    }
+  },
+  {
+    "stormspike": {
+      "normal": "knife/stormspike",
+      "uber": "knife/stormspike",
+      "ultra": "knife/stormspike"
+    }
+  },
+  {
+    "the_impaler": {
+      "normal": "spear/spear",
+      "uber": "spear/spear",
+      "ultra": "spear/spear"
+    }
+  },
+  {
+    "kelpie_snare": {
+      "normal": "spear/razortine",
+      "uber": "spear/razortine",
+      "ultra": "spear/razortine"
+    }
+  },
+  {
+    "soulfeast_tine": {
+      "normal": "spear/soulfeast_tine",
+      "uber": "spear/soulfeast_tine",
+      "ultra": "spear/soulfeast_tine"
+    }
+  },
+  {
+    "hone_sundan": {
+      "normal": "spear/spetum",
+      "uber": "spear/spetum",
+      "ultra": "spear/spetum"
+    }
+  },
+  {
+    "spire_of_honor": {
+      "normal": "spear/pike",
+      "uber": "spear/pike",
+      "ultra": "spear/pike"
+    }
+  },
+  {
+    "the_meat_scraper": {
+      "normal": "polearm/bardiche",
+      "uber": "polearm/bardiche",
+      "ultra": "polearm/bardiche"
+    }
+  },
+  {
+    "blackleach_blade": {
+      "normal": "polearm/voulge",
+      "uber": "polearm/voulge",
+      "ultra": "polearm/voulge"
+    }
+  },
+  {
+    "athenas_wrath": {
+      "normal": "polearm/athenas_wrath",
+      "uber": "polearm/athenas_wrath",
+      "ultra": "polearm/athenas_wrath"
+    }
+  },
+  {
+    "pierre_tombale_couant": {
+      "normal": "polearm/poleaxe",
+      "uber": "polearm/poleaxe",
+      "ultra": "polearm/poleaxe"
+    }
+  },
+  {
+    "husoldal_evo": {
+      "normal": "polearm/halberd",
+      "uber": "polearm/halberd",
+      "ultra": "polearm/halberd"
+    }
+  },
+  {
+    "grims_burning_dead": {
+      "normal": "polearm/war_scythe",
+      "uber": "polearm/war_scythe",
+      "ultra": "polearm/war_scythe"
+    }
+  },
+  {
+    "razorswitch": {
+      "normal": "staff/short_staff",
+      "uber": "staff/short_staff",
+      "ultra": "staff/short_staff"
+    }
+  },
+  {
+    "ribcracker": {
+      "normal": "staff/long_staff",
+      "uber": "staff/long_staff",
+      "ultra": "staff/long_staff"
+    }
+  },
+  {
+    "chromatic_ire": {
+      "normal": "staff/lazarus_spire",
+      "uber": "staff/lazarus_spire",
+      "ultra": "staff/lazarus_spire"
+    }
+  },
+  {
+    "warpspear": {
+      "normal": "staff/battle_staff",
+      "uber": "staff/battle_staff",
+      "ultra": "staff/battle_staff"
+    }
+  },
+  {
+    "skullcollector": {
+      "normal": "staff/skullcollector",
+      "uber": "staff/skullcollector",
+      "ultra": "staff/skullcollector"
+    }
+  },
+  {
+    "skystrike": {
+      "normal": "bow/short_bow",
+      "uber": "bow/short_bow",
+      "ultra": "bow/short_bow"
+    }
+  },
+  {
+    "riphook": {
+      "normal": "bow/hunters_bow",
+      "uber": "bow/hunters_bow",
+      "ultra": "bow/hunters_bow"
+    }
+  },
+  {
+    "kuko_shakaku": {
+      "normal": "bow/kuko_shakaku",
+      "uber": "bow/kuko_shakaku",
+      "ultra": "bow/kuko_shakaku"
+    }
+  },
+  {
+    "endlesshail": {
+      "normal": "bow/piercerib",
+      "uber": "bow/piercerib",
+      "ultra": "bow/piercerib"
+    }
+  },
+  {
+    "whichwild_string": {
+      "normal": "bow/whichwild_string",
+      "uber": "bow/whichwild_string",
+      "ultra": "bow/whichwild_string"
+    }
+  },
+  {
+    "cliffkiller": {
+      "normal": "bow/long_battle_bow",
+      "uber": "bow/long_battle_bow",
+      "ultra": "bow/long_battle_bow"
+    }
+  },
+  {
+    "magewrath": {
+      "normal": "bow/hellclap",
+      "uber": "bow/hellclap",
+      "ultra": "bow/hellclap"
+    }
+  },
+  {
+    "godstrike_arch": {
+      "normal": "bow/long_war_bow",
+      "uber": "bow/long_war_bow",
+      "ultra": "bow/long_war_bow"
+    }
+  },
+  {
+    "langer_briser": {
+      "normal": "bow/langer_briser",
+      "uber": "bow/langer_briser",
+      "ultra": "bow/langer_briser"
+    }
+  },
+  {
+    "pus_spiter": {
+      "normal": "bow/pus_spiter",
+      "uber": "bow/pus_spiter",
+      "ultra": "bow/pus_spiter"
+    }
+  },
+  {
+    "buriza_do_kyanon": {
+      "normal": "bow/hellcast",
+      "uber": "bow/hellcast",
+      "ultra": "bow/hellcast"
+    }
+  },
+  {
+    "demon_machine": {
+      "normal": "bow/doomspittle",
+      "uber": "bow/doomspittle",
+      "ultra": "bow/doomspittle"
+    }
+  },
+  {
+    "peasent_crown": {
+      "normal": "helmet/cap_hat",
+      "uber": "helmet/cap_hat",
+      "ultra": "helmet/cap_hat"
+    }
+  },
+  {
+    "rockstopper": {
+      "normal": "helmet/rockstopper",
+      "uber": "helmet/rockstopper",
+      "ultra": "helmet/rockstopper"
+    }
+  },
+  {
+    "stealskull": {
+      "normal": "helmet/coif_of_glory",
+      "uber": "helmet/coif_of_glory",
+      "ultra": "helmet/coif_of_glory"
+    }
+  },
+  {
+    "darksight_helm": {
+      "normal": "helmet/duskdeep",
+      "uber": "helmet/duskdeep",
+      "ultra": "helmet/duskdeep"
+    }
+  },
+  {
+    "valkiry_wing": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "crown_of_thieves": {
+      "normal": "helmet/crown_of_thieves",
+      "uber": "helmet/crown_of_thieves",
+      "ultra": "helmet/crown_of_thieves"
+    }
+  },
+  {
+    "blackhorns_face": {
+      "normal": "helmet/mask",
+      "uber": "helmet/mask",
+      "ultra": "helmet/mask"
+    }
+  },
+  {
+    "vampiregaze": {
+      "normal": "helmet/wormskull",
+      "uber": "helmet/wormskull",
+      "ultra": "helmet/wormskull"
+    }
+  },
+  {
+    "the_spirit_shroud": {
+      "normal": "armor/quilted_armor",
+      "uber": "armor/quilted_armor",
+      "ultra": "armor/quilted_armor"
+    }
+  },
+  {
+    "skin_of_the_vipermagi": {
+      "normal": "armor/leather_armor",
+      "uber": "armor/leather_armor",
+      "ultra": "armor/leather_armor"
+    }
+  },
+  {
+    "skin_of_the_flayerd_one": {
+      "normal": "armor/hard_leather_armor",
+      "uber": "armor/hard_leather_armor",
+      "ultra": "armor/hard_leather_armor"
+    }
+  },
+  {
+    "ironpelt": {
+      "normal": "armor/ironpelt",
+      "uber": "armor/ironpelt",
+      "ultra": "armor/ironpelt"
+    }
+  },
+  {
+    "spiritforge": {
+      "normal": "armor/ring_mail",
+      "uber": "armor/ring_mail",
+      "ultra": "armor/ring_mail"
+    }
+  },
+  {
+    "crow_caw": {
+      "normal": "armor/scale_mail",
+      "uber": "armor/scale_mail",
+      "ultra": "armor/scale_mail"
+    }
+  },
+  {
+    "shaftstop": {
+      "normal": "armor/chain_mail",
+      "uber": "armor/chain_mail",
+      "ultra": "armor/chain_mail"
+    }
+  },
+  {
+    "duriels_shell": {
+      "normal": "armor/breast_plate",
+      "uber": "armor/breast_plate",
+      "ultra": "armor/breast_plate"
+    }
+  },
+  {
+    "skullders_ire": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "guardian_angel": {
+      "normal": "armor/plate_mail",
+      "uber": "armor/plate_mail",
+      "ultra": "armor/plate_mail"
+    }
+  },
+  {
+    "toothrow": {
+      "normal": "armor/field_plate",
+      "uber": "armor/field_plate",
+      "ultra": "armor/field_plate"
+    }
+  },
+  {
+    "atmas_wail": {
+      "normal": "armor/gothic_plate",
+      "uber": "armor/gothic_plate",
+      "ultra": "armor/gothic_plate"
+    }
+  },
+  {
+    "black_hades": {
+      "normal": "armor/full_plate_mail",
+      "uber": "armor/full_plate_mail",
+      "ultra": "armor/full_plate_mail"
+    }
+  },
+  {
+    "corpsemourn": {
+      "normal": "armor/corpsemourn",
+      "uber": "armor/corpsemourn",
+      "ultra": "armor/corpsemourn"
+    }
+  },
+  {
+    "que_hegans_wisdon": {
+      "normal": "armor/light_plate",
+      "uber": "armor/light_plate",
+      "ultra": "armor/light_plate"
+    }
+  },
+  {
+    "visceratuant": {
+      "normal": "shield/pelta_lunata",
+      "uber": "shield/pelta_lunata",
+      "ultra": "shield/pelta_lunata"
+    }
+  },
+  {
+    "mosers_blessed_circle": {
+      "normal": "shield/mosers_blessed_circle",
+      "uber": "shield/mosers_blessed_circle",
+      "ultra": "shield/mosers_blessed_circle"
+    }
+  },
+  {
+    "stormchaser": {
+      "normal": "shield/stormchaser",
+      "uber": "shield/stormchaser",
+      "ultra": "shield/stormchaser"
+    }
+  },
+  {
+    "tiamats_rebuke": {
+      "normal": "shield/steelclash",
+      "uber": "shield/steelclash",
+      "ultra": "shield/steelclash"
+    }
+  },
+  {
+    "kerkes_sanctuary": {
+      "normal": "shield/bverrit_keep",
+      "uber": "shield/bverrit_keep",
+      "ultra": "shield/bverrit_keep"
+    }
+  },
+  {
+    "radimants_sphere": {
+      "normal": "shield/the_ward",
+      "uber": "shield/the_ward",
+      "ultra": "shield/the_ward"
+    }
+  },
+  {
+    "lidless_wall": {
+      "normal": "shield/lidless_wall",
+      "uber": "shield/lidless_wall",
+      "ultra": "shield/lidless_wall"
+    }
+  },
+  {
+    "lance_guard": {
+      "normal": "shield/lance_guard",
+      "uber": "shield/lance_guard",
+      "ultra": "shield/lance_guard"
+    }
+  },
+  {
+    "venom_grip": {
+      "normal": "glove/gloves_l",
+      "uber": "glove/gloves_l",
+      "ultra": "glove/gloves_l"
+    }
+  },
+  {
+    "gravepalm": {
+      "normal": "glove/heavy_gloves",
+      "uber": "glove/heavy_gloves",
+      "ultra": "glove/heavy_gloves"
+    }
+  },
+  {
+    "ghoulhide": {
+      "normal": "glove/bracers_m",
+      "uber": "glove/bracers_m",
+      "ultra": "glove/bracers_m"
+    }
+  },
+  {
+    "lavagout": {
+      "normal": "glove/light_gauntlets",
+      "uber": "glove/light_gauntlets",
+      "ultra": "glove/light_gauntlets"
+    }
+  },
+  {
+    "hellmouth": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "infernostride": {
+      "normal": "boot/leather_boots",
+      "uber": "boot/leather_boots",
+      "ultra": "boot/leather_boots"
+    }
+  },
+  {
+    "waterwalk": {
+      "normal": "boot/heavy_boots",
+      "uber": "boot/heavy_boots",
+      "ultra": "boot/heavy_boots"
+    }
+  },
+  {
+    "silkweave": {
+      "normal": "boot/chain_boots",
+      "uber": "boot/chain_boots",
+      "ultra": "boot/chain_boots"
+    }
+  },
+  {
+    "wartraveler": {
+      "normal": "boot/light_plate_boots",
+      "uber": "boot/light_plate_boots",
+      "ultra": "boot/light_plate_boots"
+    }
+  },
+  {
+    "gorerider": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "string_of_ears": {
+      "normal": "belt/sash_l",
+      "uber": "belt/sash_l",
+      "ultra": "belt/sash_l"
+    }
+  },
+  {
+    "razortail": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "gloomstrap": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "snowclash": {
+      "normal": "belt/heavy_belt",
+      "uber": "belt/heavy_belt",
+      "ultra": "belt/heavy_belt"
+    }
+  },
+  {
+    "thudergods_vigor": {
+      "normal": "belt/girdle_h",
+      "uber": "belt/girdle_h",
+      "ultra": "belt/girdle_h"
+    }
+  },
+  {
+    "harlequin_crest": {
+      "normal": "helmet/cap_hat",
+      "uber": "helmet/cap_hat",
+      "ultra": "helmet/cap_hat"
+    }
+  },
+  {
+    "veil_of_steel": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "the_gladiators_bane": {
+      "normal": "armor/studded_leather",
+      "uber": "armor/ironpelt",
+      "ultra": "armor/studded_leather"
+    }
+  },
+  {
+    "arkaines_valor": {
+      "normal": "armor/splint_mail",
+      "uber": "armor/splint_mail",
+      "ultra": "armor/splint_mail"
+    }
+  },
+  {
+    "blackoak_shield": {
+      "normal": "shield/umbral_disk",
+      "uber": "shield/umbral_disk",
+      "ultra": "shield/umbral_disk"
+    }
+  },
+  {
+    "stormshield": {
+      "normal": "shield/steelclash",
+      "uber": "shield/steelclash",
+      "ultra": "shield/steelclash"
+    }
+  },
+  {
+    "hellslayer": {
+      "normal": "axe/the_chieftan",
+      "uber": "axe/the_chieftan",
+      "ultra": "axe/the_chieftan"
+    }
+  },
+  {
+    "messerschmidts_reaver": {
+      "normal": "axe/brainhew",
+      "uber": "axe/brainhew",
+      "ultra": "axe/brainhew"
+    }
+  },
+  {
+    "baranars_star": {
+      "normal": "mace/bloodrise",
+      "uber": "mace/bloodrise",
+      "ultra": "mace/bloodrise"
+    }
+  },
+  {
+    "schaefers_hammer": {
+      "normal": "hammer/war_hammer",
+      "uber": "hammer/war_hammer",
+      "ultra": "hammer/war_hammer"
+    }
+  },
+  {
+    "the_cranium_basher": {
+      "normal": "hammer/great_maul",
+      "uber": "hammer/the_gavel_of_pain",
+      "ultra": "hammer/great_maul"
+    }
+  },
+  {
+    "lightsabre": {
+      "normal": "sword/lightsabre",
+      "uber": "sword/lightsabre",
+      "ultra": "sword/lightsabre"
+    }
+  },
+  {
+    "doombringer": {
+      "normal": "sword/blacktongue",
+      "uber": "sword/blacktongue",
+      "ultra": "sword/blacktongue"
+    }
+  },
+  {
+    "the_grandfather": {
+      "normal": "sword/the_patriarch",
+      "uber": "sword/the_patriarch",
+      "ultra": "sword/the_patriarch"
+    }
+  },
+  {
+    "wizardspike": {
+      "normal": "knife/dagger",
+      "uber": "knife/dagger",
+      "ultra": "knife/dagger"
+    }
+  },
+  {
+    "stormspire": {
+      "normal": "polearm/war_scythe",
+      "uber": "polearm/war_scythe",
+      "ultra": "polearm/war_scythe"
+    }
+  },
+  {
+    "eaglehorn": {
+      "normal": "bow/long_battle_bow",
+      "uber": "bow/long_battle_bow",
+      "ultra": "bow/long_battle_bow"
+    }
+  },
+  {
+    "windforce": {
+      "normal": "bow/long_war_bow",
+      "uber": "bow/long_war_bow",
+      "ultra": "bow/long_war_bow"
+    }
+  },
+  {
+    "bul_kathos_wedding_band": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "the_cats_eye": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "the_rising_sun": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "crescent_moon": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "maras_kaleidoscope": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "atmas_scarab": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "dwarf_star": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "raven_frost": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "highlords_wrath": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "saracens_chance": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "arreats_face": {
+      "normal": "helmet/avenger_guard",
+      "uber": "helmet/avenger_guard",
+      "ultra": "helmet/avenger_guard"
+    }
+  },
+  {
+    "homunculus": {
+      "normal": "voodoo_head/demon_head",
+      "uber": "voodoo_head/demon_head",
+      "ultra": "voodoo_head/demon_head"
+    }
+  },
+  {
+    "titans_revenge": {
+      "normal": "javelin/maiden_javelin",
+      "uber": "javelin/maiden_javelin",
+      "ultra": "javelin/maiden_javelin"
+    }
+  },
+  {
+    "lycanders_aim": {
+      "normal": "bow/reflex_bow",
+      "uber": "bow/reflex_bow",
+      "ultra": "bow/reflex_bow"
+    }
+  },
+  {
+    "lycanders_flank": {
+      "normal": "spear/maiden_pike",
+      "uber": "spear/maiden_pike",
+      "ultra": "spear/maiden_pike"
+    }
+  },
+  {
+    "the_oculus": {
+      "normal": "orb/dragon_stone",
+      "uber": "orb/dragon_stone",
+      "ultra": "orb/dragon_stone"
+    }
+  },
+  {
+    "herald_of_zakarum": {
+      "normal": "shield/aerin_shield",
+      "uber": "shield/aerin_shield",
+      "ultra": "shield/aerin_shield"
+    }
+  },
+  {
+    "cutthroat_1": {
+      "normal": "h2h/claws",
+      "uber": "h2h/claws",
+      "ultra": "h2h/claws"
+    }
+  },
+  {
+    "jalals_mane": {
+      "normal": "pelt/spirit_mask",
+      "uber": "pelt/spirit_mask",
+      "ultra": "pelt/spirit_mask"
+    }
+  },
+  {
+    "the_scalper": {
+      "normal": "axe/throwing_axe",
+      "uber": "axe/throwing_axe",
+      "ultra": "axe/throwing_axe"
+    }
+  },
+  {
+    "bloodmoon": {
+      "normal": "sword/hexfire",
+      "uber": "sword/hexfire",
+      "ultra": "sword/hexfire"
+    }
+  },
+  {
+    "djinnslayer": {
+      "normal": "sword/blood_crescent",
+      "uber": "sword/blood_crescent",
+      "ultra": "sword/blood_crescent"
+    }
+  },
+  {
+    "deathbit": {
+      "normal": "knife/throwing_knife",
+      "uber": "knife/throwing_knife",
+      "ultra": "knife/throwing_knife"
+    }
+  },
+  {
+    "warshrike": {
+      "normal": "knife/warshrike",
+      "uber": "knife/warshrike",
+      "ultra": "knife/warshrike"
+    }
+  },
+  {
+    "gutsiphon": {
+      "normal": "bow/doomspittle",
+      "uber": "bow/doomspittle",
+      "ultra": "bow/doomspittle"
+    }
+  },
+  {
+    "razoredge": {
+      "normal": "axe/the_gnasher",
+      "uber": "axe/the_gnasher",
+      "ultra": "axe/the_gnasher"
+    }
+  },
+  {
+    "demonlimb": {
+      "normal": "club/stoutnail",
+      "uber": "club/stoutnail",
+      "ultra": "club/stoutnail"
+    }
+  },
+  {
+    "steelshade": {
+      "normal": "helmet/coif_of_glory",
+      "uber": "helmet/coif_of_glory",
+      "ultra": "helmet/coif_of_glory"
+    }
+  },
+  {
+    "tomb_reaver": {
+      "normal": "polearm/poleaxe",
+      "uber": "polearm/poleaxe",
+      "ultra": "polearm/poleaxe"
+    }
+  },
+  {
+    "deathss_web": {
+      "normal": "wand/grim_wand",
+      "uber": "wand/blackhand_key",
+      "ultra": "wand/grim_wand"
+    }
+  },
+  {
+    "natures_peace": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "azurewrath": {
+      "normal": "sword/crystal_sword",
+      "uber": "sword/crystal_sword",
+      "ultra": "sword/crystal_sword"
+    }
+  },
+  {
+    "seraphs_hymn": {
+      "normal": "amulet/amulet2",
+      "uber": "amulet/amulet2",
+      "ultra": "amulet/amulet2"
+    }
+  },
+  {
+    "fleshripper": {
+      "normal": "knife/the_jade_tan_do",
+      "uber": "knife/the_jade_tan_do",
+      "ultra": "knife/the_jade_tan_do"
+    }
+  },
+  {
+    "horizons_tornado": {
+      "normal": "mace/flail",
+      "uber": "mace/flail",
+      "ultra": "mace/flail"
+    }
+  },
+  {
+    "stone_crusher": {
+      "normal": "hammer/war_hammer",
+      "uber": "hammer/war_hammer",
+      "ultra": "hammer/war_hammer"
+    }
+  },
+  {
+    "jadetalon": {
+      "normal": "h2h/katar",
+      "uber": "h2h/katar",
+      "ultra": "h2h/katar"
+    }
+  },
+  {
+    "shadowdancer": {
+      "normal": "boot/plate_boots",
+      "uber": "boot/plate_boots",
+      "ultra": "boot/plate_boots"
+    }
+  },
+  {
+    "cerebus": {
+      "normal": "pelt/wolf_head",
+      "uber": "pelt/wolf_head",
+      "ultra": "pelt/wolf_head"
+    }
+  },
+  {
+    "tyraels_might": {
+      "normal": "armor/victors_silk",
+      "uber": "armor/victors_silk",
+      "ultra": "armor/victors_silk"
+    }
+  },
+  {
+    "souldrain": {
+      "normal": "glove/bracers_m",
+      "uber": "glove/bracers_m",
+      "ultra": "glove/bracers_m"
+    }
+  },
+  {
+    "runemaster": {
+      "normal": "axe/double_axe",
+      "uber": "axe/double_axe",
+      "ultra": "axe/double_axe"
+    }
+  },
+  {
+    "deathcleaver": {
+      "normal": "axe/war_axe",
+      "uber": "axe/war_axe",
+      "ultra": "axe/war_axe"
+    }
+  },
+  {
+    "executioners_justice": {
+      "normal": "axe/giant_axe",
+      "uber": "axe/the_minataur",
+      "ultra": "axe/giant_axe"
+    }
+  },
+  {
+    "stoneraven": {
+      "normal": "spear/maiden_spear",
+      "uber": "spear/maiden_spear",
+      "ultra": "spear/maiden_spear"
+    }
+  },
+  {
+    "leviathan": {
+      "normal": "armor/field_plate",
+      "uber": "armor/field_plate",
+      "ultra": "armor/field_plate"
+    }
+  },
+  {
+    "wisp": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "gargoyles_bite": {
+      "normal": "javelin/throwing_spear",
+      "uber": "javelin/throwing_spear",
+      "ultra": "javelin/throwing_spear"
+    }
+  },
+  {
+    "lacerator": {
+      "normal": "axe/balanced_axe",
+      "uber": "axe/balanced_axe",
+      "ultra": "axe/balanced_axe"
+    }
+  },
+  {
+    "mang_songs_lesson": {
+      "normal": "staff/skullcollector",
+      "uber": "staff/skullcollector",
+      "ultra": "staff/skullcollector"
+    }
+  },
+  {
+    "viperfork": {
+      "normal": "spear/brandistock",
+      "uber": "spear/soulfeast_tine",
+      "ultra": "spear/brandistock"
+    }
+  },
+  {
+    "ethereal_edge": {
+      "normal": "axe/broad_axe",
+      "uber": "axe/broad_axe",
+      "ultra": "axe/broad_axe"
+    }
+  },
+  {
+    "demonhorns_edge": {
+      "normal": "helmet/horned_helm",
+      "uber": "helmet/horned_helm",
+      "ultra": "helmet/horned_helm"
+    }
+  },
+  {
+    "the_reapers_toll": {
+      "normal": "polearm/scythe",
+      "uber": "polearm/scythe",
+      "ultra": "polearm/scythe"
+    }
+  },
+  {
+    "spiritkeeper": {
+      "normal": "pelt/antlers",
+      "uber": "pelt/antlers",
+      "ultra": "pelt/antlers"
+    }
+  },
+  {
+    "hellrack": {
+      "normal": "bow/hellcast",
+      "uber": "bow/hellcast",
+      "ultra": "bow/hellcast"
+    }
+  },
+  {
+    "alma_negra": {
+      "normal": "shield/rondache",
+      "uber": "shield/rondache",
+      "ultra": "shield/rondache"
+    }
+  },
+  {
+    "darkforge_spawn": {
+      "normal": "voodoo_head/demon_head",
+      "uber": "voodoo_head/demon_head",
+      "ultra": "voodoo_head/demon_head"
+    }
+  },
+  {
+    "widowmaker": {
+      "normal": "bow/hellclap",
+      "uber": "bow/hellclap",
+      "ultra": "bow/hellclap"
+    }
+  },
+  {
+    "bloodravens_charge": {
+      "normal": "bow/hellclap",
+      "uber": "bow/hellclap",
+      "ultra": "bow/hellclap"
+    }
+  },
+  {
+    "ghostflame": {
+      "normal": "knife/blade",
+      "uber": "knife/stormspike",
+      "ultra": "knife/blade"
+    }
+  },
+  {
+    "shadowkiller": {
+      "normal": "h2h/shadowkiller",
+      "uber": "h2h/shadowkiller",
+      "ultra": "h2h/shadowkiller"
+    }
+  },
+  {
+    "gimmershred": {
+      "normal": "axe/throwing_axe",
+      "uber": "axe/throwing_axe",
+      "ultra": "axe/throwing_axe"
+    }
+  },
+  {
+    "griffons_eye": {
+      "normal": "circlet/diadem",
+      "uber": "circlet/tiara",
+      "ultra": "circlet/diadem"
+    }
+  },
+  {
+    "windhammer": {
+      "normal": "hammer/maul",
+      "uber": "hammer/maul",
+      "ultra": "hammer/maul"
+    }
+  },
+  {
+    "thunderstroke": {
+      "normal": "javelin/maiden_javelin",
+      "uber": "javelin/maiden_javelin",
+      "ultra": "javelin/maiden_javelin"
+    }
+  },
+  {
+    "demons_arch": {
+      "normal": "javelin/short_spear",
+      "uber": "javelin/short_spear",
+      "ultra": "javelin/short_spear"
+    }
+  },
+  {
+    "boneflame": {
+      "normal": "voodoo_head/gargoyle_head",
+      "uber": "voodoo_head/gargoyle_head",
+      "ultra": "voodoo_head/gargoyle_head"
+    }
+  },
+  {
+    "steelpillar": {
+      "normal": "spear/pike",
+      "uber": "spear/pike",
+      "ultra": "spear/pike"
+    }
+  },
+  {
+    "nightwings_veil": {
+      "normal": "helmet/great_helm",
+      "uber": "helmet/great_helm",
+      "ultra": "helmet/great_helm"
+    }
+  },
+  {
+    "crown_of_ages": {
+      "normal": "helmet/crown",
+      "uber": "helmet/crown_of_thieves",
+      "ultra": "helmet/crown"
+    }
+  },
+  {
+    "andariels_visage": {
+      "normal": "helmet/mask",
+      "uber": "helmet/mask",
+      "ultra": "helmet/mask"
+    }
+  },
+  {
+    "dragonscale": {
+      "normal": "shield/aerin_shield",
+      "uber": "shield/aerin_shield",
+      "ultra": "shield/aerin_shield"
+    }
+  },
+  {
+    "steel_carapice": {
+      "normal": "armor/full_plate_mail",
+      "uber": "armor/full_plate_mail",
+      "ultra": "armor/full_plate_mail"
+    }
+  },
+  {
+    "medusas_gaze": {
+      "normal": "shield/bverrit_keep",
+      "uber": "shield/bverrit_keep",
+      "ultra": "shield/bverrit_keep"
+    }
+  },
+  {
+    "ravenlore": {
+      "normal": "pelt/falcon_mask",
+      "uber": "pelt/falcon_mask",
+      "ultra": "pelt/falcon_mask"
+    }
+  },
+  {
+    "boneshade": {
+      "normal": "wand/gravenspine",
+      "uber": "wand/gravenspine",
+      "ultra": "wand/gravenspine"
+    }
+  },
+  {
+    "flamebellow": {
+      "normal": "sword/kinemils_awl",
+      "uber": "sword/kinemils_awl",
+      "ultra": "sword/kinemils_awl"
+    }
+  },
+  {
+    "fathom": {
+      "normal": "orb/dragon_stone",
+      "uber": "orb/dragon_stone",
+      "ultra": "orb/dragon_stone"
+    }
+  },
+  {
+    "wolfhowl": {
+      "normal": "helmet/fanged_helm",
+      "uber": "helmet/fanged_helm",
+      "ultra": "helmet/fanged_helm"
+    }
+  },
+  {
+    "spirit_ward": {
+      "normal": "shield/the_ward",
+      "uber": "shield/the_ward",
+      "ultra": "shield/the_ward"
+    }
+  },
+  {
+    "kiras_guardian": {
+      "normal": "circlet/tiara",
+      "uber": "circlet/tiara",
+      "ultra": "circlet/diadem"
+    }
+  },
+  {
+    "ormus_robes": {
+      "normal": "armor/quilted_armor",
+      "uber": "armor/quilted_armor",
+      "ultra": "armor/quilted_armor"
+    }
+  },
+  {
+    "gheeds_fortune": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "stormlash": {
+      "normal": "mace/flail",
+      "uber": "mace/flail",
+      "ultra": "mace/flail"
+    }
+  },
+  {
+    "halaberds_reign": {
+      "normal": "helmet/assault_helmet",
+      "uber": "helmet/assault_helmet",
+      "ultra": "helmet/assault_helmet"
+    }
+  },
+  {
+    "spike_thorn": {
+      "normal": "shield/swordback_hold",
+      "uber": "shield/swordback_hold",
+      "ultra": "shield/swordback_hold"
+    }
+  },
+  {
+    "draculs_grasp": {
+      "normal": "glove/heavy_gloves",
+      "uber": "glove/heavy_gloves",
+      "ultra": "glove/heavy_gloves"
+    }
+  },
+  {
+    "frostwind": {
+      "normal": "sword/hellplague",
+      "uber": "sword/hellplague",
+      "ultra": "sword/hellplague"
+    }
+  },
+  {
+    "templars_might": {
+      "normal": "armor/victors_silk",
+      "uber": "armor/victors_silk",
+      "ultra": "armor/victors_silk"
+    }
+  },
+  {
+    "eschutas_temper": {
+      "normal": "orb/sacred_globe",
+      "uber": "orb/sacred_globe",
+      "ultra": "orb/sacred_globe"
+    }
+  },
+  {
+    "firelizards_talons": {
+      "normal": "h2h/claws",
+      "uber": "h2h/claws",
+      "ultra": "h2h/claws"
+    }
+  },
+  {
+    "sandstorm_trek": {
+      "normal": "boot/heavy_boots",
+      "uber": "boot/heavy_boots",
+      "ultra": "boot/heavy_boots"
+    }
+  },
+  {
+    "marrowwalk": {
+      "normal": "boot/chain_boots",
+      "uber": "boot/chain_boots",
+      "ultra": "boot/chain_boots"
+    }
+  },
+  {
+    "heavens_light": {
+      "normal": "scepter/scepter",
+      "uber": "scepter/scepter",
+      "ultra": "scepter/scepter"
+    }
+  },
+  {
+    "arachnid_mesh": {
+      "normal": "belt/sash_l",
+      "uber": "belt/sash_l",
+      "ultra": "belt/sash_l"
+    }
+  },
+  {
+    "nosferatus_coil": {
+      "normal": "belt/light_belt",
+      "uber": "belt/light_belt",
+      "ultra": "belt/light_belt"
+    }
+  },
+  {
+    "metalgrid": {
+      "normal": "amulet/amulet",
+      "uber": "amulet/amulet",
+      "ultra": "amulet/amulet"
+    }
+  },
+  {
+    "verdugos_hearty_cord": {
+      "normal": "belt/belt_m",
+      "uber": "belt/belt_m",
+      "ultra": "belt/belt_m"
+    }
+  },
+  {
+    "carrion_wind": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
+    "giantskull": {
+      "normal": "helmet/bone_helm",
+      "uber": "helmet/bone_helm",
+      "ultra": "helmet/bone_helm"
+    }
+  },
+  {
+    "ironward": {
+      "normal": "scepter/war_scepter",
+      "uber": "scepter/war_scepter",
+      "ultra": "scepter/war_scepter"
+    }
+  },
+  {
+    "annihilus": {
+      "normal": "quest/mephisto_soul_stone",
+      "uber": "quest/mephisto_soul_stone",
+      "ultra": "quest/mephisto_soul_stone"
+    }
+  },
+  {
+    "ariocs_needle": {
+      "normal": "spear/spear",
+      "uber": "spear/spear",
+      "ultra": "spear/spear"
+    }
+  },
+  {
+    "cranebeak": {
+      "normal": "axe/mindrend",
+      "uber": "axe/mindrend",
+      "ultra": "axe/mindrend"
+    }
+  },
+  {
+    "nords_tenderizer": {
+      "normal": "club/felloak",
+      "uber": "club/felloak",
+      "ultra": "club/felloak"
+    }
+  },
+  {
+    "earthshifter": {
+      "normal": "hammer/great_maul",
+      "uber": "hammer/the_gavel_of_pain",
+      "ultra": "hammer/great_maul"
+    }
+  },
+  {
+    "wraithflight": {
+      "normal": "javelin/glaive",
+      "uber": "javelin/glaive",
+      "ultra": "javelin/glaive"
+    }
+  },
+  {
+    "bonehew": {
+      "normal": "polearm/bardiche",
+      "uber": "polearm/bardiche",
+      "ultra": "polearm/bardiche"
+    }
+  },
+  {
+    "ondals_wisdom": {
+      "normal": "staff/lazarus_spire",
+      "uber": "staff/lazarus_spire",
+      "ultra": "staff/lazarus_spire"
+    }
+  },
+  {
+    "the_reedeemer": {
+      "normal": "scepter/scepter",
+      "uber": "scepter/scepter",
+      "ultra": "scepter/scepter"
+    }
+  },
+  {
+    "headhunters_glory": {
+      "normal": "shield/wall_of_the_eyeless",
+      "uber": "shield/wall_of_the_eyeless",
+      "ultra": "shield/wall_of_the_eyeless"
+    }
+  },
+  {
+    "steelrend": {
+      "normal": "glove/gaunlets_h",
+      "uber": "glove/gaunlets_h",
+      "ultra": "glove/gaunlets_h"
+    }
+  },
+  {
+    "rainbow_facet": {
+      "normal": "gem/perfect_diamond",
+      "uber": "gem/perfect_diamond",
+      "ultra": "gem/perfect_diamond"
+    }
+  },
+  {
+    "hellfire_torch": {
+      "normal": "torch/torch",
+      "uber": "torch/torch",
+      "ultra": "torch/torch"
+    }
+  },
+  {
+    "cold_rupture": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "flame_rift": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "crack_of_the_heavens": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "rotting_fissure": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "bone_break": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "black_cleft": {
+      "normal": "charm/charm_large",
+      "uber": "charm/charm_large",
+      "ultra": "charm/charm_large"
+    }
+  },
+  {
+    "the_perfect_cell": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "yello_jello": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lothars_will": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deviant_cell": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "vlad_tepes_sustenance": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "something_wicked": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_unknown_hero": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fallen_star": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dragon_eye": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ring_of_vengeance": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "elemental_jewel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zodiac_band": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_one_ring": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lily_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "forget_me_not_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cactus_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "white_rose_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "violet_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dandelion_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "red_rose_petal": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "elven_blessing": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kheleks_crystal_band": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "voradors_essence": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rock_of_aadeyen": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "madawcs_frenzy": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "alakashar_rahl": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "liliths_heart": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dfuzzzs_fingerguard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "killashandra_rees_black_c": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blackmages_knucklebone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_tipsy_donut": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_mad_celts_shining_sparkly": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "yaguls_wrath": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "killjoys_attitude": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lovers_pendant": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "eye_of_the_witch": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "collar_of_the_minotaur": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "beads_of_the_guardian": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "eye_of_the_beholder": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spellcasters_aide": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_benzaiten": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_fukurokuju": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_ebisu": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_daikokuten": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_bishamonten": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_hotei": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "talisman_of_kisshoten": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "valhallas_pendant": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jades_locket": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "daeverans_stone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "holy_deviant": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "khisanth": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "grim_creaper": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sub_sanity": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "plagues_last_arrowhead": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_mistress_leather_collar": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_cursed_donut": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blackknights_holy_signet": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "smaqdouns_painful_pride": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "yaguls_bloody_rage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dweias_revenge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jindujun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bohemian_stone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "icestorm_shard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lady_eboshis_greed": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "salamander_stone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "nexus_star": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "smiiiff_stone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "larias_licentious_lament": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sescheronyas_spark": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ideal_craft": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kenjis_winged_arrows": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "delthanes_enchanted_bolts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "quiver_of_prince_ashitaka": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cascas_deadly_bolts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "legolas_quiver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "borgoffs_bolts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hijikatas_heart_blood": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_diamond_hairband": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zan_esus_commitment": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lunar_charm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heart_of_jewels": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kroks_basher": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "treefeller": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_skeleton_hunter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "high_generals_pick": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "axe_of_souls": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "glowblast": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "murderous_axe": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lord_of_carnage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rakas_folly": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_annihilator": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "axe_of_the_elements": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_butchers_cleaver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "double_bite": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sadistic_warlord": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hacker": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wolf_claw": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lifebane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fleshchew": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "griswolds_revenge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lifecleaver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rohmshun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "alea_jacta_est": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "thorgrims_saviour": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gold_digger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "iceshard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "focus_of_unlife": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wicked_axe": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "meat_cleaver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wings_of_the_fallen_phoenix": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "barbaric_devastator": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "frostarc": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "firebrander": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bakous_sharpshooter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ancient_piercer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "plaguebearer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "quiveraiden": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sparkraven": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bow_of_the_stars": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rotstring": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ravens_cord": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "titans_wake": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_harp_of_souls": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_keening": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "eaglehorn": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zeraes_gift": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heartseeker": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "karaniis_bow_of_incandesence": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gnat_sting": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bloodravens_arch": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "moonbeam": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "undeads_blight": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wild_airs_of_the_elements": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_guardian": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "enigma": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rapid_frenzy": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "firespitter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "polar_boltcaster": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "unholy_dartgun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_needler": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cataclysm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "magnium": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "qotos_bow_of_fortuitous_battle": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deadly_hunter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scope_of_the_hawk": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "chaos_launcher": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deadly_precision": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "yeggs_firedagger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "requiers_skill": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_golden_spike": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "anguirel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sirians_infinite_knives": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "trangouls_claw": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wizardspike": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "throatslitter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_horn_of_balor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rathmas_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "famine": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mordenkainens_dagger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hail_of_bolts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "led": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rics_faith": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "free_lance": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "flying_impaler": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gilded_spikes": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "septic_needle": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "revenants_spear_of_the_vampyr": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "futurebreeze": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "olympus_hand": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_opilus_apprentice": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "olympians_javelin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "johans_picket": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rainbow_rocket": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mobys_demise": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "inifuss_branch": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_horror": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bonemash": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arcs_skewer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "grimbolds_flail": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "silver_rule": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bul_kathos_rage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arreats_peak": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "koths_cudgel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blood_splinter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dreamflange": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "starshine": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demonfever": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "schaefers_hammer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "vulcans_piledriver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "justicar_militiari": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cavemans_fury": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "darth_maul": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "caesars_revenge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "butchers_tenderizer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "thunder_star": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "millers_hammer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hammer_of_bogardan": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "thors_hammer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "erons_bardiche": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lawful_arm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blade_of_oblivion": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hewsons_poleaxe": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "infidels_rule": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "eternal_rest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "defender_of_the_highlands": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bill_of_the_crane_shamans": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "reaver_of_darkness": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "partizan_of_light": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_will_of_hatred": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "instrument_of_destruction": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "call_of_the_guardian": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "nine_lives_stealer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "soul_reaver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sultans_conqueror": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "almraizer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "eternal_reign": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "holy_icon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blessed_avenger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "redeemer_of_the_light": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demon_bane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "righteous_avenger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demon_slayer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "liberation": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "redemption": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "agent_of_the_light": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "judgement": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "instrument_of_purification": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scepter_of_the_sorcerer_kings": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "supercharged_rod": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "poseidons_trident": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "forzans_rage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rogerios_lance": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uthualas_crest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zeraes_point": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gift_of_the_sea": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kaihlannas_pride": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tears_of_pain": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "illusionary_pain": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "backbiter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "defense_of_atlantis": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dragons_breath": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "storm_seeker": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rotting_splinter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zann_esus_raiment": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_fradstik": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "phenoms_rule": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "morquans_aura": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "yoyos_sanity": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "staff_of_the_horadrim": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_staff_of_aesculapius": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "doomspire": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_staff_of_erana": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tal_rashas_walking_stick": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "burning_sands": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "magelords_assistant": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_protector": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dragon_staff": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "vizjeris_knowledge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "umbars_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_rising_sun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "taverns_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ironslice": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rainbows_power": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "numenorean_iron": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "storms_charge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tribesmans_focus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "darkteflan": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "devilish_fear": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "falcons_pride": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gonnermouths_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blizzards_sword": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_barbaric_totem": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "magma_spike": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scourge_of_the_twin_seas": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "soulforge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_desert_wind": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "frost_shard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zakarum_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "celestial_avenger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mithril_sword": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_vampire": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "black_death": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "stone_brenner": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jeldarias_focus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "inarius_fall": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "terminus_est": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "slave_warriors_edge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "twinkle": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "icing_death": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_executioners_blade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "diamondedge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "glacial_form": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "soul_singer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "romes_victory": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blade_of_righteousness": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "reins_of_power": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mitsurugis_aide": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blackened_blade_of_arkanon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_fires_of_sunlight": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_grandfather": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_trainees_shuriken": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_lumberjacks_toy": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_surgeon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_miner": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "morgue": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "battle_hymn": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_hurricane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "minotaurs_sidearm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_assassins_stiletto": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dark_knights_dread": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "unicorns_horn": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hephastos_last_project": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_green_lantern": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "necromonic_tool": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lucrecius_power": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wand_of_spirits": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cinderspark": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rusalkas_femur": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wand_of_rathma": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "skull_of_horazon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arm_of_the_skeleton": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "secret_of_the_ooze": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "essence_of_trang_oul": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "song_of_the_damned": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fuego": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scillas_nimbleness": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kashyas_issue": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fluffy_rabbits_hare_y_javelin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rod_of_zerae": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lance_of_celestia": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "oxhorn": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lycanders_aim": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "robin_hoods_precision": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "titans_revenge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_dragoon_shaft": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lycanders_flank": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "goldfinger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "artemis_wrath": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "maijas_menace": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zeus_bolts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lightfoot": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "raidens_staff": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ghouls_touch": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "diamond_cuff": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "shadow_slice": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "soulsear": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scratch_of_persia": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "threaded_spines": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "royal_grapple": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "phalzyrs_frenzy": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ensnare": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "quill_giants_spine": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sparkmonger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dooms_apprentice": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scratch_of_the_elements": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fangs_of_the_king_cobra": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "warpfist": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "solistus_masamune_edge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "clavo_platino": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "excalibria": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "polar_edge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_freedom_of_imprisonment": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rajas_majesty": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "viz_jaqtaars_invention": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "slight_of_hand": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "muramasa_sword": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "larzuks_aim": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "malahs_aid": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rising_sun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "woodfists_arm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rakanishus_staff": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spirit_of_the_forest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jugalator": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "master_of_puppets": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_touch_of_death": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jr_eyes": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blade_of_the_reaper": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deaths_scythe": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_last_rites": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bone_reaver": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blade_of_corruption": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sunblade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "excalibur": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "holy_avenger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "xiao_ji_ji": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cruel_heart": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hells_torment": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "drannors_claw": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "orb_of_the_red_dragon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "infinite_thought": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "azimuths_regard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "apocalypse_stone": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "magica_strife": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "aurauras_jewel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_oculus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_secret_of_mana": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "orb_of_the_horadrim": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wrath_of_asmodeus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heart_of_the_succubi": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "baals_eye": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spacial_distortion": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blade_of_the_fallen_angel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cap_of_the_raven": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "warriors_coif": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "obsidian_helm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sparhawks_spirit": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_wanderers_guard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fearful_bane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "albrieghts_bonemask": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "raging_wolf": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "leorics_rule": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "crown_of_the_mountain_king": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cap_of_the_blessed": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "knowledge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_eagle_helm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spirit_of_life": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "veil_of_steel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "burial_mask_of_marduuk": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_borgovs_skull": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gotterdammerung": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "royal_circlet": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dwarven_spirits": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "servants_leathers": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "beowulfs_mask": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "golem_shell": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arthurs_crown": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "visor_of_the_tropics": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "diablos_horns": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deaths_cowl": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spirit_of_genghis_khan": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arreats_faceplate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "bruenors_cranium": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_rainbow_cloak": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zuez_padding": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "geckos_leather": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ragegarb": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rathmas_protector": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mail_of_the_shadows": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fearless_garb": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mail_of_the_sun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rasputins_chestplate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "darkmages_robe": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "krujoys_mail": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "flashpoint_armor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ironlords_plate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "plate_of_spikes": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "frozen_soulbearer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spikes_of_the_rhyno": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lightbringers_revenge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "corrupted_sanctuary": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "steel_of_legends": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "shroud_of_azalin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "robe_of_the_white_mage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "black_armor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demon_skin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "palashias_defense": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "robe_of_the_phoenix": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ancient_guardian": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "armor_of_the_wind": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "scarab_demon_carapace": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wisdoms_wrap": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mountains_skin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arkaines_valor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "armor_of_the_deep": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "piotyrs_plate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "templar_protector": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_iron_maiden": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "armor_of_the_dragon_mage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "drizzts_mithril": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demonspike_coat": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lothars_cape": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "nightscape": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cottonmouth_jacket": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hellrust": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "brilliance": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "chains_of_binding": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "acero_frio": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "vulcanguard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "atlastrust": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kaijas_gown": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hellforges_finest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blanchwood_vest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "aaktas_defense": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "leorics_plate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "robes_of_power": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deflective_spikes": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "izeals_vise": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "silvasas_dress": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_guardian_of_time": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "romanary_pelt": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "stargate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mercenarys_brace": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spikes_of_rajamir": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ravens_shield": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "skullbears_soul": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "stormwynds_mania": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "phrozen_heart": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "defender_of_justice": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_deflector": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "karcheus_ward": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_face_of_the_sun": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spikewall": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_shield_of_pain": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tortured_souls": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wall_of_the_ancient_oak": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "links_mirror": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mithril_shield": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lady_ravens_power": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "elzixs_treasure": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "cyclops_protector": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_seduction_of_pain": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dragons_breach": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "icon_of_sin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_barricade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "guardian_angel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "stonewall": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "leather_of_luck": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hand_of_grog": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gloves_of_firebrand": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "darkflight_hand": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heartrands_gaunts": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "firehearts_hand": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hands_of_the_assassin": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gloves_of_nor_tiraj": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "shivas_touch": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "runefusion": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "suffocation_of_indifference": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lockhearts_grip": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gloves_of_the_dark_mage": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_hands_of_atlas": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "deaths_grip": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "iron_fist": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "herculean_grip": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "greizs_legion": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "boots_of_firewalk": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "icelanders_wear": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "orcish_walkgarb": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "vindalays_sole": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "lightmasters_walk": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "zhouls_slippers": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "demonspeed": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "flickerheel": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "chillcobble": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "boots_of_the_valiant": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "haste_of_athulua": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wrens_reinforced_tech_boots": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heart_of_the_moon": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "boots_of_the_serpent": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "boots_of_aether": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hermes_gift": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_heel_of_blood": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spirits_of_the_dead": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "imperial_sash": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "raimens_belt_of_fear": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "glowharness": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blustones_belt": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "harness_of_the_gods": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "goldarks_strap": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "smiles_of_fortune": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "rumour_of_pain": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "strap_of_cythys": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "battlecharge": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "timeloop": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "circle_of_the_ancients": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "blazeband": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "band_of_constriction": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "laertes_treasure": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "spartacus_defense": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "girdle_of_giant_strength": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_belt_of_zeus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hinge_of_sinnew": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "crusheye": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_raging_bull": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "army_of_one": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_augmentor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "helm_of_the_dead_king": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "savannahs_pride": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_crimson_faceplate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "phase_visor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "arreats_face": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "coldfists_icy_stare": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "adrenaline_rush": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wyrms_wrap": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "larzuks_innovation": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_ancients_blessing": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "fangs_valor": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "shadow_crow": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "alizees_flaming_horns": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "razor_beak": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "starwolfs_facade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "con_dar_warpaint": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ravenlord": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "horns_of_allesthir": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "phoenix_tail": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "jalals_mane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "necromancers_essense": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "mojabis_face": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tetonic_horns": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "aire_libre": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "beast_of_the_night": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wirts_skull": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "corpsefires_head": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "radaments_rotting_skull": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "pitspawns_gaze": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "andariels_face": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "ancient_kaas_soul": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "red_deaths_madness": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_grim_compass": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "disturbing_visions": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "homunculus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "splitskull_shield": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "head_of_the_cerberus": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "shenks_mask": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "winged_embrace": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "draculas_wit": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "dogma": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "archers_bane": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "diablos_crest": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "the_bishop": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "kings_blessing": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "gorgon_slayer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "hadriels_barricade": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "wall_of_the_crusader": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "herald_of_zakarum": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "imperial_war_guard": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "faith": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "godspeed": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "heavens_gate": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "leader_of_the_light": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "black_hole": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "roaring_thunder": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "iron_thimble": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "sightless_archer": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "manifer_of_slugger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "tattooed_palm": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "thundergods_anger": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "burning_sleeve": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "black_gypsum": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "protection_circuit": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_0": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_1": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_2": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_3": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_4": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_5": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_6": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_7": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_8": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_9": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_10": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_11": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_12": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_13": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_14": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "uni_ore_15": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  },
+  {
+    "damage_augmenter": {
+      "normal": "gem/placeholder_1_1",
+      "uber": "gem/placeholder_1_1",
+      "ultra": "gem/placeholder_1_1"
+    }
+  }
+]
