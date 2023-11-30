@@ -1094,3 +1094,4 @@ Uni Ore 12	1052	100	1			1	1	1	1	ore	Ore		1	1								xtal-00		-1	1	xtal-01		-1	1	
 Uni Ore 13	1053	100	1			1	1	1	1	ore	Ore		1	1								xtal-03		-1	1	xtal-04		-1	1	xtal-05		-1	1	xtal-09		-1	1	xtal-10		-1	1	xtal-11		-1	1																										0
 Uni Ore 14	1054	100	1			1	1	1	1	ore	Ore		1	1								xtal-00		-1	1	xtal-02		-1	1	xtal-04		-1	1	xtal-06		-1	1	xtal-08		-1	1	xtal-10		-1	1																										0
 Uni Ore 15	1055	100	1			1	1	1	1	ore	Ore		1	1								xtal-01		-1	1	xtal-03		-1	1	xtal-05		-1	1	xtal-07		-1	1	xtal-09		-1	1	xtal-11		-1	1																										0
+Damage Augmenter	1056	100	1			1	1	1	1	cm7	Large Charm	1	1	1								oskill	406	1	1	oskill	407	1	1	oskill	445	1	1	oskill	446	1	1	kill-skill	CountKills	100	1	death-skill	CountDeaths	100	1																										0
